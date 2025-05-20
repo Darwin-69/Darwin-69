@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Darwin
+# 👋 Hey, I’m Dharvind Mahen
 
 🎓 Aspiring AI/ML Engineer | Currently learning with NVIDIA DLI  
 🧠 Focused on building smart systems with GenAI, LLMs & Deep Learning  
